@@ -1,0 +1,9 @@
+{
+  "name": "@snapcheck/cli",
+  "version": "0.1.0",
+  "description": "Snapshot a folder to a hash manifest and verify it later. Zero dependencies.",
+  "type": "module",
+  "bin": { "snapcheck": "./snapcheck.mjs" },
+  "files": ["snapcheck.mjs"],
+  "license": "MIT"
+}
